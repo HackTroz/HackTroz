@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi im Hack Troz or you can call om hek / abdel :D
+- Animator
+- Use Linux as daily drive >:D
+- Like making conlang
+- still learning about programming beside how fried my braincell was 😭
 
 <!--
 **HackTroz/HackTroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
