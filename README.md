@@ -21,11 +21,18 @@
     still learning about programming beside how fried my braincell was 😭
   </li>
 </ul>
-
+<hr size="2">
 <p>
   <b>
-    My Youtube Channel <IMG src="" href="https://youtube.com/@hacktroz5368?si=JeXeKjl8oPyyK63H">
+    My Youtube Channel : <a href="https://youtube.com/@hacktroz5368?si=JeXeKjl8oPyyK63H">hack TROZ</a>
   </b>
 </p>
 
+
+<p>
+  <b>
+    Daky Animattion Youtube Channel : <a href="https://youtube.com/@dakyanimattion?si=jzDcYddBEotoXiub">Daky Animattion</a>
+  </b>
+</p>
+<hr size="2" color="red">
 <!--bisa dibikin kayak html-->
