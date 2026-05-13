@@ -28,10 +28,15 @@
   </b>
 </p>
 
-
 <p>
   <b>
     Daky Animattion Youtube Channel : <a href="https://youtube.com/@dakyanimattion?si=jzDcYddBEotoXiub">Daky Animattion</a>
+  </b>
+</p>
+
+<p>
+  <b>
+    Talk With Daky Animattion Community : <a href="https://youtube.com/@hacktroz5368?si=JeXeKjl8oPyyK63H">Daky Animattion Discord</a>
   </b>
 </p>
 <hr size="2" color="red">
